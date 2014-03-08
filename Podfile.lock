@@ -1,0 +1,10 @@
+PODS:
+  - OBShapedButton (1.0.2)
+
+DEPENDENCIES:
+  - OBShapedButton
+
+SPEC CHECKSUMS:
+  OBShapedButton: d2b9783760660ac98a32f334a587dea459a63e0b
+
+COCOAPODS: 0.29.0
